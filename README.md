@@ -15,5 +15,9 @@ Paho Mqtt para comunicacao MQTT
 pip install paho-mqtt
 ```
 Execução:
-
+```
 python3 sensoriamento.py
+```
+
+Dashboard para visualização dos dados:
+![image](https://github.com/user-attachments/assets/2c804745-36ae-4c16-a4ea-a35274314662)
